@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MifiManager</string>
+    <string name="system_settings">系统设置</string>
+    <string name="shutdown_restart">关机&amp;重启</string>
+    <string name="shutdown">关机</string>
+    <string name="restart">重启</string>
+    <string name="cancel">取消</string>
+    <string name="first_run_setup">首次运行请设置管理员密码</string>
+    <string name="main_hint">使用方法：\n1. 连接本机WiFi热点（默认名称 MiFi-xxxx）\n2. 浏览器访问后台地址：\n   http://192.168.43.1:8080\n3. 默认管理员密码：admin\n\n可通过Web后台修改WiFi密码、切换SIM卡等。</string>
+</resources>
